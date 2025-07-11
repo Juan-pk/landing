@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "nombre": "Envíos Marítimos",
+    "descripcion": "Ideal para cargas grandes, entrega en 2-4 semanas."
+  },
+  {
+    "id": 2,
+    "nombre": "Plan Retorno",
+    "descripcion": "Recogemos tus mercancías y las enviamos de vuelta a tu país."
+  },
+  {
+    "id": 3,
+    "nombre": "Asesoría gratuita",
+    "descripcion": "Te guiamos para que tus envíos lleguen sin problemas."
+  },
+    {
+    "id": 4,
+    "nombre": "Servicio de Fletes",
+    "descripcion": "Ofrecemos fletes marítimos y aéreos para todo tipo de mercancías."
+  }
+]
